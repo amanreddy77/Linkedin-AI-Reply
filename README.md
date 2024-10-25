@@ -1,5 +1,5 @@
 
-![LinkedIn AI Reply Demo](https://youtu.be/_qmUp5igxzo)
+![LinkedIn AI Reply Demo]()
 
 # LinkedIn AI Reply Chrome Extension
 
