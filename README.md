@@ -1,11 +1,9 @@
 
-
-<video src="https://www.youtube.com/watch?v=_qmUp5igxzo" controls="controls" style="max-width: 100%;">
-   Your browser does not support the video tag.
-</video>
+![LinkedIn AI Reply Demo](https://github.com/user-attachments/assets/036a5365-797a-451a-9ab3-f649a5332872)
 
 
-![LinkedIn AI Reply Demo]()
+
+
 
 
 # LinkedIn AI Reply Chrome Extension
