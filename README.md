@@ -1,5 +1,5 @@
 
-![LinkedIn AI Reply Demo](https://github.com/user-attachments/assets/036a5365-797a-451a-9ab3-f649a5332872)
+https://github.com/user-attachments/assets/036a5365-797a-451a-9ab3-f649a5332872
 
 
 
