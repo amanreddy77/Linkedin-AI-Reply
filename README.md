@@ -1,5 +1,8 @@
 
-![LinkedIn AI Reply Demo](/Users/amanreddyp/Desktop/Screen Recording 2024-10-25 at 15.22.45.mov)
+<video src="/Users/amanreddyp/Desktop/Screen Recording 2024-10-25 at 15.22.45.mov" controls="controls" style="max-width: 100%;">
+   Your browser does not support the video tag.
+</video>
+
 
 # LinkedIn AI Reply Chrome Extension
 
@@ -32,11 +35,6 @@ This Chrome extension leverages the **WXT Framework** to provide seamless messag
 - **TypeScript**: Provides a structured, strongly-typed experience to reduce errors and improve code maintainability.
 - **Tailwind CSS**: Utility-first CSS framework for styling the modal seamlessly.
 - **HTML/CSS/JavaScript**: Core technologies for creating the user interface and enabling interactivity.
-
-## 📸 Screenshots
-
-
-
 
 ## 🧩 Usage
 
