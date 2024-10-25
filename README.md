@@ -1,5 +1,5 @@
 
-![LinkedIn AI Reply Demo](/Users/amanreddyp/Desktop/Screen Recording 2024-10-25 at 15.22.45.mov)
+![LinkedIn AI Reply Demo](https://youtu.be/_qmUp5igxzo)
 
 # LinkedIn AI Reply Chrome Extension
 
