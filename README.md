@@ -1,4 +1,6 @@
 
+![LinkedIn AI Reply Demo](/Users/amanreddyp/Desktop/Screen Recording 2024-10-25 at 15.22.45.mov)
+
 # LinkedIn AI Reply Chrome Extension
 
 This Chrome extension leverages the **WXT Framework** to provide seamless message automation within LinkedIn’s messaging interface. Designed for efficiency, the extension allows users to generate and insert custom responses to LinkedIn messages directly, simplifying communication tasks and saving time on repetitive replies.
